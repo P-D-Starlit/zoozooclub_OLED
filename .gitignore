@@ -1,0 +1,7 @@
+*
+!*/
+!*.sbc
+!/readme.md
+!/.gitignore
+!/res/**
+backups/
